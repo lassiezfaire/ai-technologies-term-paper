@@ -1,0 +1,6 @@
+name: cv_term_paper
+dependencies:
+  - python=3.12.7
+  - pip
+  - pip:
+    - -r requirements.txt
